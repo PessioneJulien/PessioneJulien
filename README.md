@@ -36,5 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pessionejulien&show_icons=true&locale=en" alt="pessionejulien" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pessionejulien&" alt="pessionejulien" /></p>
-<p><img align="center" src="https://github.com/PessioneJulien/PessioneJulien/blob/main/Illustration_sans_titre.gif" alt="gif" /></p>
 
